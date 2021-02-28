@@ -9,10 +9,10 @@ Phone - +375298868846
 I am a self-motivated person, with a great passion of studying web technologies. I am eager to grow and improve my IT and social skills. My current goal is to apply acquired knowledge in practice, working with a team of specialists.
 
 ## Skills
-HTML, CSS, JavaScript (Basic)  
-Git  
-BEM methodology, SASS,  
-Photoshop, Figma, Avacode.  
+- HTML, CSS, JavaScript (Basic)  
+- Git  
+- BEM methodology, SASS,  
+- Photoshop, Figma, Avacode.  
 
 ## Works
 ##### ADC Website Homepage
