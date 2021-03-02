@@ -1,1 +1,1 @@
-https://kontrast7.github.io/rsschool-cv/cv
+https://kontrast7.github.io/rsschool-cv/
